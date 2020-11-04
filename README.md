@@ -15,6 +15,7 @@ Maven is used as build tool in this application
     **A sample configuration file has been provided appConfig.json**
 2) The Server Log file is assumed to have an **Array of JSON Objects** parsing code is written for the same, however it can be changed as per requirement.
   **A sample input file has been added as serverlogs.txt**
+3) Once configuration details are set run the jar using **java -jar CreditSuisseLogAnalyser.jar appConfig.json**
 
 # Results
 1. Logs are written to app.log file
