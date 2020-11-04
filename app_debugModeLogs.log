@@ -1,0 +1,74 @@
+2020-11-04 18:58:28 INFO Application config file path:- ./appConfig.json
+2020-11-04 18:58:28 DEBUG Reading application configuration file :- ./appConfig.json
+2020-11-04 18:58:28 DEBUG C:\Users\Ashok\git\CreditSuisse\LogAnalysis\appConfig.json
+2020-11-04 18:58:28 DEBUG Reading dbstring value from app configuration file.
+2020-11-04 18:58:28 DEBUG Reading dbtable value from app configuration file.
+2020-11-04 18:58:28 DEBUG Reading severlogs file path value from app configuration file.
+2020-11-04 18:58:28 DEBUG Attempting to connec to database.
+2020-11-04 18:58:28 DEBUG Database connection successful.
+2020-11-04 18:58:28 DEBUG Creating table in the database.
+2020-11-04 18:58:28 INFO Table created successfully
+2020-11-04 18:58:28 INFO Input file path: E://CreditSuisse//CreditSuisse//Serverlogs.txt
+2020-11-04 18:58:28 DEBUG Reading server logs input file.
+2020-11-04 18:58:28 DEBUG E:\CreditSuisse\CreditSuisse\Serverlogs.txt
+2020-11-04 18:58:28 DEBUG Event id: scsre
+2020-11-04 18:58:28 DEBUG Time taken by event: 78ms
+2020-11-04 18:58:28 INFO Long event scsre ( 78ms ) setting alert to TRUE.
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsre
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsre
+2020-11-04 18:58:28 DEBUG Event id: scsmbstgrf
+2020-11-04 18:58:28 DEBUG Time taken by event: 7ms
+2020-11-04 18:58:28 INFO Long event scsmbstgrf ( 7ms ) setting alert to TRUE.
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsmbstgrf
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsmbstgrf
+2020-11-04 18:58:28 DEBUG Event id: scsmbstgra
+2020-11-04 18:58:28 DEBUG Time taken by event: 0ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsmbstgra
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsmbstgra
+2020-11-04 18:58:28 DEBUG Event id: scsmbstgrb
+2020-11-04 18:58:28 DEBUG Time taken by event: 2ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsmbstgrb
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsmbstgrb
+2020-11-04 18:58:28 DEBUG Event id: scsmbstgrc
+2020-11-04 18:58:28 DEBUG Time taken by event: 31ms
+2020-11-04 18:58:28 INFO Long event scsmbstgrc ( 31ms ) setting alert to TRUE.
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsmbstgrc
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsmbstgrc
+2020-11-04 18:58:28 DEBUG Event id: scsmbstgrd
+2020-11-04 18:58:28 DEBUG Time taken by event: 2ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: scsmbstgrd
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: scsmbstgrd
+2020-11-04 18:58:28 DEBUG Event id: appTest_two
+2020-11-04 18:58:28 DEBUG Time taken by event: 2147483647ms
+2020-11-04 18:58:28 INFO Long event appTest_two ( 2147483647ms ) setting alert to TRUE.
+2020-11-04 18:58:28 DEBUG Saving event data to database: appTest_two
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: appTest_two
+2020-11-04 18:58:28 DEBUG Event id: appTest_four
+2020-11-04 18:58:28 DEBUG Time taken by event: 18ms
+2020-11-04 18:58:28 INFO Long event appTest_four ( 18ms ) setting alert to TRUE.
+2020-11-04 18:58:28 DEBUG Saving event data to database: appTest_four
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: appTest_four
+2020-11-04 18:58:28 DEBUG Event id: appTest_three
+2020-11-04 18:58:28 DEBUG Time taken by event: 2ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: appTest_three
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: appTest_three
+2020-11-04 18:58:28 DEBUG Event id: appTest_five
+2020-11-04 18:58:28 DEBUG Time taken by event: 2ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: appTest_five
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: appTest_five
+2020-11-04 18:58:28 DEBUG Event id: appTest_one
+2020-11-04 18:58:28 DEBUG Time taken by event: 2ms
+2020-11-04 18:58:28 DEBUG Saving event data to database: appTest_one
+2020-11-04 18:58:28 INFO Event data saved to database..
+2020-11-04 18:58:28 DEBUG Event data saved to database.. Event Id: appTest_one
+2020-11-04 18:58:28 DEBUG Releasing database connection.
