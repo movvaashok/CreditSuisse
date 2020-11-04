@@ -1,0 +1,8 @@
+2020-11-04 16:17:02 INFO Application config file path:- C:\Users\Ashok\eclipse-workspace_new\LogAnalyser\appConfig.json
+2020-11-04 16:17:02 INFO Table created successfully
+2020-11-04 16:17:02 INFO Input file path: D:\creditSuisse.txt
+2020-11-04 16:17:02 INFO Long event scsmbstgra ( 5ms ) setting alert to TRUE.
+2020-11-04 16:17:02 INFO Event data saved to database..
+2020-11-04 16:17:02 INFO Long event scsmbstgrc ( 8ms ) setting alert to TRUE.
+2020-11-04 16:17:02 INFO Event data saved to database..
+2020-11-04 16:17:02 INFO Event data saved to database..

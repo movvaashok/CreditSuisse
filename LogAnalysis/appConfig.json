@@ -1,0 +1,5 @@
+{
+	"severlogs": "D:\\creditSuisse.txt",
+	"dbstring": "jdbc:hsqldb:mem:testCreditSuisse",
+	"dbtable": "eventLogs"
+}
